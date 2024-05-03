@@ -1,0 +1,65 @@
+Contact Shah Wali Ullah Baig
+shahwalibaig39@gmail.com
+Machine Learning Engineer @Wateen Telecom Limited | AI / DL /
+www.linkedin.com/in/ DW / DV / ML / NLP | GU' 23
+shahwaliullahbaig (LinkedIn)
+Lahore, Punjab, Pakistan
+github.com/WaliUllahbaig
+(Portfolio)
+Summary
+Top Skills
+I am a passionate data scientist with two years of freelance
+Natural Language Processing (NLP)
+experience, with a Bachelor's degree in Data Sciences, with a focus
+Deep Learning
+on Computer Vision and interpersonal communication.
+Artificial Intelligence (AI)
+Expertise in:
+> Languages: Python | R | HTML & CSS | SQL
+Languages
+> Technologies: ML | DL | NLP | TensorFlow | Pytorch
+Urdu (Native or Bilingual)
+> Tools: Colab | PowerBI | Matlab | phpMyAdmin
+Punjabi (Limited Working)
+> Interests: Big data | Cloud Computing | Gen AI
+English (Professional Working)
+Experience
+Wateen Telecom Limited
+Machine Learning Engineer
+March 2024 - Present (2 months)
+Lahore, Punjab, Pakistan
+Sample Project:
+--* Face Detection and Recognition for Automatic Attendance System *--
+> Integrated VGG16 and YOLO models for effective face detection.
+> Utilized U-Net for detailed facial feature segmentation.
+> Applied advanced feature extraction techniques to enhance face recognition
+accuracy.
+Knowledge Streams
+Data Science with Machine Learning Trainee
+October 2023 - February 2024 (5 months)
+Pakistan
+I've had the fantastic opportunity to be a Trainee in Data Science with Machine
+Learning, and I've also taken on roles such as Sales Executive and member
+of the B2B team. Working as a Sales Executive allowed me to interact with
+student customers, while my B2B role had me communicating with CEOs
+and HR managers from various top companies. These experiences were
+Page 1 of 2invaluable, greatly improving my communication skills and bolstering my
+technical knowledge.
+Mentorness
+Machine Learning Intern
+December 2023 - January 2024 (2 months)
+Ahmedabad, Gujarat, India
+Prodigy InfoTech
+Data Science Intern
+December 2023 - December 2023 (1 month)
+India
+Fiverr
+Data Analyst
+September 2021 - August 2023 (2 years)
+Lahore, Punjab, Pakistan
+Education
+GIFT University
+Bachelor's degree, Data Science · (October 2019 - October 2023)
+Punjab Group Of Colleges
+FSc Pre-engineering, Engineering · (September 2017 - September 2019)
+Page 2 of 2

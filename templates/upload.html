@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Upload File</title>
+</head>
+<body style="font-family: 'Arial', sans-serif; background-color: #e8e8e8; margin: 40px; color: #333; display: flex; align-items: center; justify-content: center; height: 90vh;">
+    <div style="background-color: #ffffff; padding: 40px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); text-align: center;">
+        <h1>Upload a File</h1>
+        <form action="/" method="post" enctype="multipart/form-data">
+            <input type="file" name="file" style="margin-top: 20px; cursor: pointer;">
+            <input type="submit" value="Upload" style="margin-top: 20px; background-color: #388E3C; border: none; color: white; padding: 12px 24px; border-radius: 5px; cursor: pointer; transition: background-color 0.3s ease;">
+            <p style="margin-top: 20px; font-size: 16px;">Supported file types: PDF, DOCX, XLSX, PPTX</p>
+        </form>
+    </div>
+    <script>
+        // Adding inline JavaScript for hover effect
+        document.querySelector('input[type="submit"]').onmouseover = function() {
+            this.style.backgroundColor = '#2E7D32';
+        };
+        document.querySelector('input[type="submit"]').onmouseout = function() {
+            this.style.backgroundColor = '#388E3C';
+        };
+    </script>
+</body>
+</html>

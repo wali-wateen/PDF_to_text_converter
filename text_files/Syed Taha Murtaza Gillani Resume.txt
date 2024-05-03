@@ -1,0 +1,71 @@
+Syed Taha Murtaza Gillani
++92 305 4386242 | syedtahamurtaza@hotmail.| linkedin.com/syedtahamurtaza 
+
+Objective 
+I am seeking a challenging position in a dynamic environment to pursue a career in Data Science and Machine Learning. I am aspiring to learn and apply Data Science skills on the job, aiming for continuous growth and contribution to organizational goals. Dedicated to developing and leveraging professional skills for mutual prosperity of the organization and personal career advancement.
+
+WORK EXPERIENCE
+Organization [DWP, DWP Group ] 								(Feb 2024 - Present)
+Data Science Intern
+Contributed to the creation of data pipelines for efficient data migration, transformation, and loading (ETL)
+Utilized Python programming language to develop scripts and modules for automating ETL processes.
+Collaborated with team members to analyze data requirements and design effective solutions.
+Aided in optimizing data workflows to enhance efficiency and accuracy in data processing.
+Gained hands-on experience in data manipulation, cleaning, and transformation techniques.
+Actively participated in team meetings and contributed ideas for improving data management strategies.
+
+Organization [Knowledge Streams, knowledge.tech ]						(Oct 2023 - Jan 2024)
+Data Science and Machine Learning Trainee	                                             	      
+Enhanced proficiency in data analysis, statistics, and machine learning, elevating analytical and research capabilities.
+Collaborated effectively with diverse teams to implement machine learning solutions, showcasing strong teamwork and communication skills.
+Mastered Python programming, demonstrating expertise in tools such as Pandas, NumPy, and others.
+Engineered a highly accurate vehicle detection system with 90% accuracy, surpassing alternative solutions in performance.
+
+Organization [ibex Lahore, ibex.co]								(Sep 2021 - Sep 2022)
+Customer Support Executive
+Delivered exceptional customer service within established SOP guidelines.
+Maintained a high-quality standard ranging from 85 to 90 percent.
+Achieved and consistently maintained 100% AHT (Average Handling Time) threshold.
+Ensured compliance and operational consistency throughout customer service activities.
+
+Organization [Mindbridge, mindbridge.net]							(Jan 2020 - Sep 2021)
+Team Lead - Talabat Dispatch									
+Led and managed a team of 25-30 dispatchers, enhancing overall team performance.
+Improved efficiency by closely monitoring productivity and offering constructive feedback to team members.
+Boosted agent performance by 30% through targeted strategies and support.
+Achieved an 85% Service Level Agreement (SLA) to meet performance targets.
+Maintained overall team quality within the range of 90 to 95%.
+Implemented company policies to ensure compliance and operational consistency.
+Regularly reported to management on team performance and individual agent capabilities.
+Established effective communication channels between higher management and agents.
+
+Organization [01 Concepts, aasaagroup.com] 
+Database Administrator reports developer							(Jan 2019 - Nov 2019)
+Managed pharmaceutical POS Desktop and Online Product databases as a DBA.
+Implemented manual and scheduled database backups for clients' desktop applications.
+Developed reports for clients using Crystal Reports, utilizing SQL stored procedures and views.
+Ensured data integrity and availability for seamless client operations.
+ 
+
+
+
+
+
+
+PROJECTS
+Vehicle detection and counting along with their current speed estimation
+Implemented yolo v8 model to detect and count vehicles. 
+Project is about detecting, counting and classification of vehicles that includes (motorbikes, car, truck and bus)
+Model identified different vehicles along with their current speed with 90% accuracy, outperforming traditional approaches.
+
+CORE SKILLS
+Programming Languages: C++, C# and Python
+Developer Tools: Git, Jupyter Notebook, Colab, Visual Studio, Crystal Reports, Tableau and PowerBI
+Frameworks: OpenCV, Tenserflow, Pandas, Numpy, Keras, Scikit-Learn, Matplotlib and Seaborn 
+Databases: MySQL & MSSQL 
+
+EDUCATION
+
+Superior University 
+BS, Software Engineering                                                     					(Completion Year 2019)
+
